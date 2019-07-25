@@ -1,4 +1,4 @@
-[Resume](https://docs.google.com/document/d/1AGpUwxdGkMB9AhkM4NpiKzdW0KpAVupfSUiK3d2faI8/edit?usp=sharing)
+[Resume]({github.com/MatthewMacalalad/MatthewMacalalad}}/ResumeUpdated.docx.pdf)
 
 ## Welcome to GitHub Pages
 
