@@ -1,4 +1,4 @@
-[Resume]({github.com/MatthewMacalalad/MatthewMacalalad}}/assets/ResumeUpdated.docx.pdf)
+[Resume](https://github.com/MatthewMacalalad/MatthewMacalalad/blob/master/ResumeUpdated.docx.pdf)
 
 ## Welcome to GitHub Pages
 
