@@ -1,5 +1,5 @@
 <p align = "center">
-  <a href=https://github.com/MatthewMacalalad/MatthewMacalalad/blob/master/ResumeUpdated.docx.pdf> test </a>
+  <b href=https://github.com/MatthewMacalalad/MatthewMacalalad/blob/master/ResumeUpdated.docx.pdf> Resume </b>
   
 ### [Resume](https://github.com/MatthewMacalalad/MatthewMacalalad/blob/master/ResumeUpdated.docx.pdf) | [GitHub](https://github.com/MatthewMacalalad/MatthewMacalalad/)
 
